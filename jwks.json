@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "brightspace-key-1",
+      "n": "mzClFT-ncrw4jc6swb4gdrJo8lFbIRzXQWAXeRBJL5krAgA05ViuyxLpdeYElheIPJLjHO9UqVQXBjhol0rcUXgRBnCR6sxtxXfgk9AtBIVa2W-3MXgAJRNngBWzFJzGpjxoZK4IqosoV5tC3z5y8iu-3nj9_ayAmsmtnjmVMmbx-T2hDby0xcxSB7ohu1Nmod-813ciKhd6nFARu295w3cFJh_ahKwJMfk1qkXisAALc1Ne_zt-PQacU-EJNRje4F0pEg55rzKp_68-1dX1Edl6j-n8M2mjVqJs-YYCBuvPcQeHIoitxRvYDBiLYWlMDkVq3vV9IVoMd3tHO5eQTw",
+      "e": "AQAB"
+    }
+  ]
+}
